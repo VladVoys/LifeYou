@@ -1,0 +1,135 @@
+body{
+	background:#4C4646;
+}
+#как{
+	text-align:center;
+}
+#пук{
+	background:#565051; /* Цвет фона */
+    width: 300px; /* Ширина блока */
+    padding: 50px; /* Поля */
+    
+}
+#ага{
+        position: relative;
+        bottom:350px;
+        right:5px;
+    }
+        #сру{
+background:#565051; /* Цвет фона */
+    width: 300px; /* Ширина блока */
+    padding: 75px; /* Поля */
+    position: relative;
+        bottom:450px;
+        left:460px ; 
+    
+        }
+        #вы{
+        	position: relative;
+        bottom:400px;
+        left:460px ; 
+        }
+        #разговор{
+        	position: relative;
+        
+        left:300px ;
+        top:-75px; 
+        }
+        #брат{
+        	position: relative;
+        
+        left:300px ;
+        top:-60px; 
+        }
+          #кнопка{
+background:#565051; /* Цвет фона */
+    width: 300px; /* Ширина блока */
+    padding: 75px; /* Поля */
+    position: relative;
+        bottom:50px;
+        left:10px ;
+        }
+        #панос{
+        	position: relative;
+        bottom:15px;
+        left:570px ;
+        }
+           #найс{
+        	position: relative;
+        bottom:-10px;
+        left:-125px ;
+        }
+    #ларёк1{
+background:#565051; /* Цвет фона */
+    width: 300px; /* Ширина блока */
+    padding: 250px; /* Поля */
+    position: relative;
+        bottom:25px;
+        left:-450px ;
+        }
+
+           #позвонть{
+        	position: relative;
+        bottom:-10px;
+        left:-125px ;
+        }
+        a:link{
+        	color:red;
+        }
+         a:visited{
+        color:greenyellow;
+     }
+     #нюхай{
+     	position: relative;
+        bottom:-450px;
+        left:-450PX ;
+     }
+     #р{
+background:#565051; /* Цвет фона */
+    width: 300px; /* Ширина блока */
+    padding:75px; /* Поля */
+    position: relative;
+        bottom:-50px;
+        left:-25px ;
+        }
+        #н{
+     	position: relative;
+        bottom:100px;
+        left:600PX ;
+     }
+#а{
+	position: relative;
+        bottom:-100px;
+        left:100px ;
+}
+ #ь{
+background:#565051; /* Цвет фона */
+    width: 300px; /* Ширина блока */
+    padding:150px; /* Поля */
+    position: relative;
+        bottom:-100px;
+        left:-25px ;
+        }
+        #новости{
+        	position: relative;
+        bottom:250px;
+        left:700PX ;
+        }
+        #братюня{
+        	position: relative;
+        bottom:50px;
+        left:300PX ;
+        }
+        #телек{
+background:#565051; /* Цвет фона */
+    width: 300px; /* Ширина блока */
+    padding:150px; /* Поля */
+    position: relative;
+        bottom:200px;
+        left:-25px ;
+        }
+         #магаз{
+        	position: relative;
+        bottom:50px;
+        left:200PX ;
+        }
